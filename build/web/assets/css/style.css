@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2-gen-2019, 0.10.24
+    Author     : salva
+*/
+.InlineForm {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.InlineForm input,
+.InlineForm select {
+    width: 300px;
+    margin-right: 10px;
+}
+
+.Container {
+    padding: 15px;
+}
+
+.InlineForm.Column {
+    flex-direction: column;
+}
+
+.InlineForm.Column button {
+    width: 300px;
+    margin-top: 10px; 
+}
