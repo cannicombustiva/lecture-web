@@ -277,7 +277,8 @@ public class DB {
                 + "JOIN courses_teachers ON(reservation.course_teacher_id=courses_teachers.id)\n"
                 + "JOIN teachers ON(teachers.id=courses_teachers.teacher_id)\n"
                 + "JOIN courses ON(courses.id=courses_teachers.course_id) and reservation.user_id = ?\n"
-                + "WHERE courses_teachers.date > ?");
+                + "WHERE courses_teachers.date > ?\n"
+                + "ORDER BY courses_teachers.date DESC");
 
         java.sql.Date sqlDate = new java.sql.Date(dateParam.getTime());
         st.setInt(1, userId);
