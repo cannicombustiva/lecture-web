@@ -4,28 +4,30 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/dev/LecturesRes/src/java/Controllers/ControllerReservation.java</file>
-            <file>file:/C:/dev/LecturesRes/src/java/Filters/AuthenticationFilter.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/Models/Reservation.java</file>
-            <file>file:/C:/dev/LecturesRes/web/teacher.jsp</file>
             <file>file:/C:/dev/LecturesRes/src/java/Controllers/ControllerCourseTeacher.java</file>
-            <file>file:/C:/dev/LecturesRes/src/java/API/APICourseTeacher.java</file>
-            <file>file:/C:/dev/LecturesRes/web/course-teacher.jsp</file>
-            <file>file:/C:/dev/LecturesRes/src/java/helpers/CustomExceptions/WrongPasswordException.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/API/APIUser.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/Controllers/ControllerLogin.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/Models/CourseTeacher.java</file>
-            <file>file:/C:/dev/LecturesRes/web/assets/js/reservation.js</file>
-            <file>file:/C:/dev/LecturesRes/src/java/Models/User.java</file>
-            <file>file:/C:/dev/LecturesRes/web/layout.jsp</file>
             <file>file:/C:/dev/LecturesRes/src/java/Models/UserAuth.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/Controllers/ControllerCourse.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/API/APIReservations.java</file>
+            <file>file:/C:/dev/LecturesRes/src/java/Models/ApiResponseCourseTeacher.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/Controllers/ControllerTeacher.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/helpers/DB.java</file>
             <file>file:/C:/dev/LecturesRes/web/assets/css/style.css</file>
             <file>file:/C:/dev/LecturesRes/web/reservation.jsp</file>
+            <file>file:/C:/dev/LecturesRes/src/java/Models/ApiResponseReservation.java</file>
             <file>file:/C:/dev/LecturesRes/src/java/helpers/CustomExceptions/NoUserException.java</file>
             <file>file:/C:/dev/LecturesRes/web/WEB-INF/web.xml</file>
+            <file>file:/C:/dev/LecturesRes/src/java/Filters/AuthenticationFilter.java</file>
+            <file>file:/C:/dev/LecturesRes/web/teacher.jsp</file>
+            <file>file:/C:/dev/LecturesRes/src/java/API/APICourseTeacher.java</file>
+            <file>file:/C:/dev/LecturesRes/web/course-teacher.jsp</file>
+            <file>file:/C:/dev/LecturesRes/src/java/helpers/CustomExceptions/WrongPasswordException.java</file>
+            <file>file:/C:/dev/LecturesRes/web/assets/js/reservation.js</file>
+            <file>file:/C:/dev/LecturesRes/src/java/Models/User.java</file>
+            <file>file:/C:/dev/LecturesRes/web/layout.jsp</file>
             <file>file:/C:/dev/LecturesRes/src/java/helpers/UserPower.java</file>
         </group>
     </open-files>

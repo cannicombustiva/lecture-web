@@ -10,12 +10,14 @@ package Models;
  * @author salva
  */
 public class Reservation {
+
     public int id;
     public int userId;
     public int courseTeacherId;
     public String courseName;
     public String teacherName;
     public String courseTeacherDate;
+    public String date;
 
     public Reservation(int id, int userId, int courseTeacherId, String courseName, String teacherName, String courseTeacherDate, String date) {
         this.id = id;
@@ -26,7 +28,6 @@ public class Reservation {
         this.courseTeacherDate = courseTeacherDate;
         this.date = date;
     }
-    public String date;
 
     public Reservation(int userId, int courseTeacherId) {
         this.userId = userId;
